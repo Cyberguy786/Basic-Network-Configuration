@@ -21,5 +21,5 @@ G0/1 (Switch 2): 192.168.2.1
 2. Verified connectivity by sending PDUs (ping) between devices.
 
 ## Files
-- `basic_network_config.pkt`: Packet Tracer file with the topology.
-- `router_config.txt`: CLI configurations for the router.
+- `basic_network_Config.pkt`: Packet Tracer file with the topology.
+- `Router0_running-config.txt`: CLI configurations for the router.
